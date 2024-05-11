@@ -24,7 +24,7 @@
 **Results:**
 
 ### Project2
-**Repository:** [`Project2.xlsx`]
+**Repository:** [`Project2..pbix`]
 
 **Description:**
 
