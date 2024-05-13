@@ -17,7 +17,7 @@
 ### Coffee Sales
 **Repository:** [`CoffeeSales.xlsx`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/CoffeeSales.xlsx)
 
-**Description:** This project aims to build a dynamic interactive coffee sales data dashboard, including sales over time and sales by country by using a pivot table and a pivot chart.
+**Description:** This project aims to create an interactive coffee sales data dashboard, analyzing sales trends over time and across countries. Using pivot tables and charts, we aim to offer a visually immersive platform for stakeholders to explore coffee sales data precisely.
 
 **Skills:** data visualization.
 
