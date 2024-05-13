@@ -9,7 +9,7 @@
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
     - Excel 
-        - [Excel Project Name](#excel-project-name)
+        - [Coffee Sales data dashboard](#excel-project-name)
 
 
 ## Portfolio Projects
