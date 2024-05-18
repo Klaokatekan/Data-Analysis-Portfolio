@@ -25,7 +25,7 @@
 **Results:**
 
 ### Project2
-**Repository:** [`Project2..pbix`]
+**Repository:** [`Project2.pbix`]
 
 **Description:**
 
