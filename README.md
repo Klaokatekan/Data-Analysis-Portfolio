@@ -26,15 +26,6 @@
 
 **Results:**
 
-### Project2
-**Repository:** [`Project2.pbix`]
-
-**Description:**
-
-**Skills:**
-
-**Results:**
-
 ### London Bike ###
 **Repository:** [`london_bikes_data.ipynb`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/london_bikes_data.ipynb)
 
