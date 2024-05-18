@@ -9,13 +9,13 @@
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
     - Excel 
-        - [Coffee Sales data dashboard](#excel-project-name)
+        - [Coffee Sales data dashboard](#coffee-sales-data-dashboard)
       
 
 
 ## Portfolio Projects
 
-### Coffee Sales
+### Coffee Sales data dashboard
 **Repository:** [`CoffeeSales.xlsx`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/CoffeeSales.xlsx)
 
 **Description:** This project aims to create an interactive coffee sales data dashboard, analyzing sales trends over time and across countries. Using pivot tables and charts, we aim to offer a visually immersive platform for stakeholders to explore coffee sales data precisely.
