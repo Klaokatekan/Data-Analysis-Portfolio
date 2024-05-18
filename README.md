@@ -10,6 +10,7 @@
 - [Portfolio Projects](#portfolio-projects)
     - Excel 
         - [Coffee Sales data dashboard](#excel-project-name)
+      
 
 
 ## Portfolio Projects
@@ -29,5 +30,14 @@
 **Description:**
 
 **Skills:**
+
+**Results:**
+
+### London Bike Data ###
+**Repository:** [`london_bikes_data.ipynb`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/london_bikes_data.ipynb)
+
+**Description:** In this project, I utilized Google Colab to analyze the London Bikes dataset.
+
+**Skills:** data analyst.
 
 **Results:**
