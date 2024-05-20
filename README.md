@@ -17,7 +17,7 @@
 
 ## Portfolio Projects
 
-### Coffee Sales data dashboard
+### Coffee Sales
 **Repository:** [`CoffeeSales.xlsx`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/CoffeeSales.xlsx)
 
 **Description:** Utilizing XLOOKUP and INDEX MATCH to gather data, followed by data manipulation using the IF function, construction of an interactive coffee sales data dashboard. This dashboard will facilitate the analysis of coffee sales trends over time and across countries by utilizing pivot tables and charts.
@@ -26,10 +26,10 @@
 
 **Results:**
 
-### London Bike ###
+### London Bike Sharing ###
 **Repository:** [`london_bikes_data.ipynb`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/london_bikes_data.ipynb)
 
-**Description:** In this project, I utilized Google Colab to analyze the London Bikes dataset.
+**Description:** Using the Pandas library in Python to gather, explore, assess, and manipulate data thoroughly. In Tableau, we create impactful visualizations, including moving average charts and heatmaps, to reveal the relationships between temperature and wind speed.
 
 **Skills:** data analyst.
 
