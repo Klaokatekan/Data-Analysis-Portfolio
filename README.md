@@ -20,7 +20,7 @@
 ### Coffee Sales data dashboard
 **Repository:** [`CoffeeSales.xlsx`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/CoffeeSales.xlsx)
 
-**Description:** This project aims to create an interactive coffee sales data dashboard, analyzing sales trends over time and across countries. Using pivot tables and charts, we aim to offer a visually immersive platform for stakeholders to explore coffee sales data precisely.
+**Description:** Utilizing XLOOKUP and INDEX MATCH to gather data, followed by data manipulation using the IF function, construction of an interactive coffee sales data dashboard. This dashboard will facilitate the analysis of coffee sales trends over time and across countries, by using pivot tables and charts.
 
 **Skills:** data visualization.
 
