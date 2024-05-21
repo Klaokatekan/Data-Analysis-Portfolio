@@ -44,3 +44,8 @@
 **Description:** 
 
 **Skills:** data visualization.
+
+**Preview** ![alt text](retail_sales_1.jpg)
+![alt text](retail_sales_2.jpg)
+![alt text](retail_sales_3.jpg)
+![alt text](retail_sales_4.jpg)
