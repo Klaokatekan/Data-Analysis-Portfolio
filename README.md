@@ -12,6 +12,8 @@
         - [Coffee Sales data dashboard](#coffee-sales-data-dashboard)
     - Google Colab
         - [London Bike](#london-bike)
+    - Power Bi
+        - [Retail Sales Report](#retail-sales-report)
       
 
 
@@ -24,14 +26,16 @@
 
 **Skills:** data visualization.
 
-**Results:**
-
 ### London Bike Sharing ###
 **Repository:** [`london_bikes_data.ipynb`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/london_bikes_data.ipynb) <br />
-**Dashboard:** [`Retail Sales Report.pbix`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/Retail%20Sales%20Report.pbix)
 
 **Description:** Using the Pandas library in Python to gather, explore, assess, and manipulate data thoroughly. In Tableau, we create impactful visualizations, including moving average charts and heatmaps, to reveal the relationships between temperature and wind speed.
 
 **Skills:** data analyst.
 
-**Results:**
+### Retail Sales Report ###
+**Repository:** [`Retail Sales Report.pbix`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/Retail%20Sales%20Report.pbix)
+
+**Description:** 
+
+**Skills:** data visualization.
