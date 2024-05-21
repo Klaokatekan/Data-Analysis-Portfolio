@@ -26,14 +26,14 @@
 
 **Skills:** data visualization.
 
+**Preview** ![alt text](london_bikes_data_image.jpg)
+
 ### London Bike Sharing ###
 **Repository:** [`london_bikes_data.ipynb`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/london_bikes_data.ipynb) <br />
 
 **Description:** Using the Pandas library in Python to gather, explore, assess, and manipulate data thoroughly. In Tableau, we create impactful visualizations, including moving average charts and heatmaps, to reveal the relationships between temperature and wind speed.
 
 **Skills:** data analyst.
-
-**Preview** ![alt text](london_bikes_data_image.jpg)
 
 ### Retail Sales Report ###
 **Repository:** [`Retail Sales Report.pbix`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/Retail%20Sales%20Report.pbix)
