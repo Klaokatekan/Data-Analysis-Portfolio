@@ -28,6 +28,7 @@
 
 ### London Bike Sharing ###
 **Repository:** [`london_bikes_data.ipynb`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/london_bikes_data.ipynb)
+**Dashboard:** [`Retail Sales Report.pbix`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/Retail%20Sales%20Report.pbix)
 
 **Description:** Using the Pandas library in Python to gather, explore, assess, and manipulate data thoroughly. In Tableau, we create impactful visualizations, including moving average charts and heatmaps, to reveal the relationships between temperature and wind speed.
 
