@@ -35,6 +35,9 @@
 
 **Skills:** data analyst.
 
+**Preview** ![alt text](london_bike_dashboard_image_1.jpg)
+![alt text](london_bike_dashboard_image_2.jpg)
+
 ### Retail Sales Report ###
 **Repository:** [`Retail Sales Report.pbix`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/Retail%20Sales%20Report.pbix)
 
