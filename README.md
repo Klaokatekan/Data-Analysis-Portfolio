@@ -24,7 +24,6 @@
 
 **Description:** Utilizing XLOOKUP and INDEX MATCH to gather data, followed by data manipulation using the IF function, construction of an interactive coffee sales data dashboard. This dashboard will facilitate the analysis of coffee sales trends over time and across countries by utilizing pivot tables and charts.
 
-**Skills:** data visualization.
 
 **Preview** ![alt text](coffee_sales_image.jpg)
 
