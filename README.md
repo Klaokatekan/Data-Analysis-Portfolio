@@ -26,7 +26,7 @@
 
 **Skills:** data visualization.
 
-**Preview** ![alt text](cofee_sales_image.jpg)
+**Preview** ![alt text](coffee_sales_image.jpg)
 
 ### London Bike Sharing ###
 **Repository:** [`london_bikes_data.ipynb`] (https://github.com/Klaokatekan/PortfolioProjects/blob/main/london_bikes_data.ipynb) <br />
